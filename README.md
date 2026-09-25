@@ -1,2 +1,1 @@
-# felipekharaba.com
-Personal website
+[Felipe Kharaba's personal website](https://felipekharaba.com/), design inspired by [Eric Quidenus-Wahlforss' personal website](https://eric.wahlforss.com/).
